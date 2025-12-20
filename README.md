@@ -252,7 +252,7 @@ Reach out for a Pashov Audit Group smart contract security audit to me on [Teleg
 | DYAD        | [2024-09-14](team/pdf/Dyad-security-review.pdf)                               | <img height="20" src="https://img.shields.io/badge/-   Solidity   -63698d?style=flat" />   |
 | Open Dollar | [2024-04-17](team/pdf/OpenDollar-security-review.pdf)                         | <img height="20" src="https://img.shields.io/badge/-   Solidity   -63698d?style=flat" />   |
 | Level | [2025-04-19](team/pdf/Level-security-review_2025-04-09.pdf)                         | <img height="20" src="https://img.shields.io/badge/-   Solidity   -63698d?style=flat" />   |
-| Tangent | [2025-10-30](team/pdf/Tangent-security-review_2025-10-30.pdf)                         | <img height="20" src="https://img.shields.io/badge/-   Solidity   -63698d?style=flat" />   |
+| Tangent | [2025-10-30](team/pdf/Tangent-security-review_2025-10-30.pdf), [2025-12-08](team/pdf/Tangent-security-review_2025-12-08.pdf)                          | <img height="20" src="https://img.shields.io/badge/-   Solidity   -63698d?style=flat" />   |
 
 
 
@@ -336,6 +336,7 @@ Reach out for a Pashov Audit Group smart contract security audit to me on [Teleg
 | Spectra - interest rate derivatives    | [2025-01-17](team/pdf/Spectra-security-review_2025-01-17.pdf), [2024-02-24](team/pdf/Spectra-security-review.pdf)                  | <img height="20" src="https://img.shields.io/badge/-   Solidity   -63698d?style=flat" />   |
 | Napier – Interest rate derivatives                | [2025-09-30](team/pdf/Napier-security-review_2025-09-30.pdf)      | <img height="20" src="https://img.shields.io/badge/-   Solidity   -63698d?style=flat" />   |
 | Veil – privacy service                 | [2025-02-12](team/pdf/VeilCash-security-review_2025-02-12.pdf)      | <img height="20" src="https://img.shields.io/badge/-   Solidity   -63698d?style=flat" />   |
+| Ample Earn – Strategy Allocator                 | [2025-12-12](team/pdf/AmpleEarn-security-review_2025-12-12.pdf)      | <img height="20" src="https://img.shields.io/badge/-   Solidity   -63698d?style=flat" />   |
 | Beam Nodes – cross-chain NFT minting   | [2025-01-28](team/pdf/BeamNodes-security-review_2025-01-28.pdf)     | <img height="20" src="https://img.shields.io/badge/-   Solidity   -63698d?style=flat" />   |
 | Azuro - prediction markets             | [2024-02-20](team/pdf/Azuro_security_review.pdf)                                | <img height="20" src="https://img.shields.io/badge/-   Solidity   -63698d?style=flat" />   |
 | Memecoin Prediction Markets            | [2025-08-07](team/pdf/MCP-security-review_2025-08-07.pdf)           | <img height="20" src="https://img.shields.io/badge/-   Solidity   -63698d?style=flat" />   |
